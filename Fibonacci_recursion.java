@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-public class driver {
+public class  Fibonacci_recursion {
 	
 	static private int count;
 	
