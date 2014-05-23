@@ -1,6 +1,6 @@
-/* Lab exercise #3
- * Name: Mohamed Abdel baky
- * ID# 9070117
+/*
+ * Name: Mohamed 
+ * 
  */
 public class reverse_string {
 
